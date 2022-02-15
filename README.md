@@ -6,17 +6,24 @@ TAP, the Technology Ambassadors Program, aims to increase the number of students
   
 *ADD RESULTS AND PROJECT DEMO RUNTHROUGH VIDEO AT A LATER DATE*
 
+
 ## Team
 -Connor Murdock
+
 -Alan Oliver
+
 -David Torres
+
 -Tyler Rowe
+
 
 ## Publications
 *ADD AT A LATER DATE*
 
+
 ## Outreach Activities
 *ADD AT A LATER DATE*
+
 
 ## Technology
   The technology we are using is Virtual Reality. Virtual Reality is a computer generated 3D environment that people can interact with in real life space using special equipment, usually a headset and two controllers, one for each hand. Unity is a game development engine that anyone can use for free, and creators can develop for many platforms uncluding VR.
@@ -25,8 +32,11 @@ TAP, the Technology Ambassadors Program, aims to increase the number of students
 
 -[Unity's Website](unity.com)
 
+
 ## Project Setup/Installation
 *ADD AT A LATER DATE*
 
+
 ## Usage
 *ADD AT A LATER DATE*
+
